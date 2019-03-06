@@ -29,7 +29,7 @@ namespace Reproductor
     public partial class MainWindow : Window
     {
         AudioFileReader reader;
-        //Nuestra comunicacion con la tarjeta de sonido
+        //Nuestra comunicacion con la tarjeta de sonido xd
         WaveOutEvent output;
 
         DispatcherTimer timer;
